@@ -70,9 +70,8 @@
 
 ## IaaS
 - Amazon Web Services
-- Azure
+- Microsoft Azure
 - さくらクラウド
-- CloudOcean
 
 ## Other
 - Win32
