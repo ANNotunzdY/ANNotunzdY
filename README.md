@@ -8,4 +8,4 @@ https://annotunzdy.github.io/
 
 # 連絡先
 - Mail: dev@annotunzdy.info
-- Twitter: @an0mr
+- X: @conkaku
